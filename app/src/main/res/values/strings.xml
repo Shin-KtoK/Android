@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MemoSample</string>
+
+    <string name="hint_word">登録する文字列を入力してください。</string>
+    <string name="empty_not_saved">文字列が入力されなかったので、登録しませんでした。</string>
+
+    <string name="button_save_log_text">Save Text</string>
+    <string name="button_save_log_push1">Write Log1</string>
+    <string name="button_save_log_push2">Write Log2</string>
+    <string name="button_save_log_push3">Write Log3</string>
+    <string name="button_save_log_push4">Write Log4</string>
+    <string name="button_save_log_push5">Write Log5</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
